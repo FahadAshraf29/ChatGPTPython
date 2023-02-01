@@ -30,7 +30,7 @@ How to Use
     Install the dependencies: tkinter, openai, and messagebox.
     Clone or download the repository.
     Open a terminal in the directory containing the program files.
-    Go to dist\chatgpt.exe for running the executable file.
+    On CLI write python3 chatgpt.py or use any IDE
 
 Notes
 
