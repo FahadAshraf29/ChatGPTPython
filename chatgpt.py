@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 import openai
 
-openai.api_key = "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"
+#You need to add your own Key
+openai.api_key = "sk-YvxGal2i94TicBX62......"
 
 def generate_response(event=None):
     prompt = entry.get()
