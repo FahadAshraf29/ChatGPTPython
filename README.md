@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Local Chat (ChatGPT-style UI + Free Local AI)
 
 This project runs a **ChatGPT-like desktop interface** (sidebar chat history + main conversation) on top of a **free local LLM backend (Ollama)**.
